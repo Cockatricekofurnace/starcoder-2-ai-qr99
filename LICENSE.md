@@ -1,4 +1,4 @@
-# 
+# Turbo StarCoder 2 tools. Featuring plugin-system and cloud-sync — optimized for maximum performance and efficiency.
 
 
 
